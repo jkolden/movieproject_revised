@@ -7,7 +7,7 @@ Fork this code into your own git repo and then clone it into a local directory l
 ```
 $ mkdir my_project
 $ cd my_project
-$ git clone https://github.com/jkolden/ud036_StarterCode.git
+$ git clone https://github.com/jkolden/movieproject.git
 ```
 A folder named ud036_StarterCode will be created in your directory
 
@@ -15,7 +15,7 @@ A folder named ud036_StarterCode will be created in your directory
 
 This can be run from the command prompt as follows:
 ```
-$ cd ud036_StarterCode
+$ cd movieproject
 $ python entertainment_center.py
 ```
 A webpage should open using your default browser showing the movie application. Click on each movie image to display the movie trailer.
