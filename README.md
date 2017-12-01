@@ -1,5 +1,4 @@
-# My Fabulous Recipe
-
+# Source code for Udacity movies project
 This recipe for **cereal and milk** has been passed down my family for months.
 
 ## Ingredients
