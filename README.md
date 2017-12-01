@@ -9,7 +9,7 @@ $ mkdir my_project
 $ cd my_project
 $ git clone https://github.com/jkolden/movieproject.git
 ```
-A folder named ud036_StarterCode will be created in your directory
+A folder named movieproject will be created in your directory
 
 ## How to Run
 
