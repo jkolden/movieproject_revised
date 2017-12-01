@@ -5,10 +5,11 @@
 Fork this code into your own git repo and then clone it into a local directory like this:
 
 ```
-$ mkdir myproject_folder
-$ cd myproject_folder
+$ mkdir my_project_folder
+$ cd my_project_folder
 $ git clone https://github.com/jkolden/ud036_StarterCode.git
 ```
+A folder named ud036_StarterCode will be created in your directory
 
 ## How to Run
 
