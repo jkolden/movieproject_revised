@@ -1,13 +1,14 @@
 # Source code for Udacity movies project
-This recipe for **cereal and milk** has been passed down my family for months.
 
-## Ingredients
+## Installation
 
+Fork this code into your own git repo and then clone it into a local directory like this:
 
-* Cereal (you can find cool cereals [here]( www.example.com/coolcereals))
-* Milk
+```
+$ git clone https://github.com/jkolden/ud036_StarterCode.git
+```
 
-## Directions
+## How to Run
 
 If I were writing these out as `code`, it might look something like this:
 ```
