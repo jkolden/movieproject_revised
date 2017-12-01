@@ -1,4 +1,4 @@
-# Source code for Udacity movies project
+# Source code for John Kolden's Udacity movies project
 
 ## Installation
 
