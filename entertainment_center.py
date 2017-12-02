@@ -44,8 +44,7 @@ moneyball = media.Movie(
 # "entertainment_center.py" file.
 
 
-movies = [toy_story,
-          avatar,
+movies = [avatar,
           school_of_rock,
           searching_for_sugarman,
           all_the_presidents_men, moneyball]
