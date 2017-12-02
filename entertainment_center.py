@@ -42,6 +42,12 @@ moneyball = media.Movie(
     "https://tinyurl.com/y7xoptwz",
     "https://www.youtube.com/watch?v=AiAHlZVgXjk")
 
+# Movies array, contains the list of movies as input, which
+# is passed to the function "open_movies_page". This function
+# translates this list into a web page when we run the
+# "entertainment_center.py" file.
+
+
 movies = [toy_story,
           avatar,
           school_of_rock,
