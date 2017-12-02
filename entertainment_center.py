@@ -5,7 +5,11 @@ import fresh_tomatoes
 # Creating movies to describe the instances of the Class Movie
 
 
-
+toy_story = media.Movie(
+    "Toy Story",
+    "A Story of a boy and his toys that come to life",
+    "https://tinyurl.com/y8jrdmex",
+    "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
 avatar = media.Movie(
     "Avatar",
@@ -44,7 +48,8 @@ moneyball = media.Movie(
 # "entertainment_center.py" file.
 
 
-movies = [avatar,
+movies = [toy_story,
+          avatar,
           school_of_rock,
           searching_for_sugarman,
           all_the_presidents_men, moneyball]
