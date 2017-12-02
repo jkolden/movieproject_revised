@@ -31,8 +31,8 @@ searching_for_sugarman = media.Movie(
 
 all_the_presidents_men = media.Movie(
     "All the President's Men",
-    "Two reporters from the Washington Post uncover "
-    "illegal activity at the highest levels of government",
+    """Two reporters from the Washington Post uncover
+    illegal activity at the highest levels of government""",
     "https://tinyurl.com/ydcj9pdc",
     "https://tinyurl.com/lgl4e79")
 
