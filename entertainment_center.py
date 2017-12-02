@@ -52,6 +52,7 @@ movies = [toy_story,
           avatar,
           school_of_rock,
           searching_for_sugarman,
-          all_the_presidents_men, moneyball]
+          all_the_presidents_men, 
+          moneyball]
 
 fresh_tomatoes.open_movies_page(movies)
