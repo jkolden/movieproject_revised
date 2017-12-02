@@ -20,26 +20,26 @@ avatar = media.Movie(
 school_of_rock = media.Movie(
     "School of Rock",
     "A teacher forms a band with his students",
-    "https://tinyurl.com/yclzd8xv",
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg,  # noqa
     "https://www.youtube.com/watch?v=XCwy6lW5Ixc")
 
 searching_for_sugarman = media.Movie(
     "Searching For Sugarman",
     "Academy Award winning documentary about a 1960's folk icon",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"  # noqa,
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=QL5TffdOQ7g")
 
 all_the_presidents_men = media.Movie(
     "All the President's Men",
     """Two reporters from the Washington Post uncover
     illegal activity at the highest levels of government""",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY1200_CR83,0,630,1200_AL_.jpg"  # noqa,
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BOWI2YWQxM2MtY2U4Yi00YjgzLTgwNzktN2ExNTgzNTIzMmUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY1200_CR83,0,630,1200_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=vLt6djxhNe8")
 
 moneyball = media.Movie(
     "Moneyball",
     "An unconventional general manager transforms the Oakland A's",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"  # noqa,
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=AiAHlZVgXjk")
 
 # Movies array, contains the list of movies as input, which
