@@ -20,7 +20,7 @@ avatar = media.Movie(
 school_of_rock = media.Movie(
     "School of Rock",
     "A teacher forms a band with his students",
-    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg,  # noqa
+    "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwOTMzNjYzMl5BMl5BanBnXkFtZTcwNjczMTQyMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",  # noqa
     "https://www.youtube.com/watch?v=XCwy6lW5Ixc")
 
 searching_for_sugarman = media.Movie(
