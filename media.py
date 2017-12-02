@@ -18,7 +18,4 @@ def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
 
 
 def show_trailer(self):
-    """
-    initializing instance for opening youtube trailer video
-    """
     webbrowser.open(self.trailer_youtube_url)
