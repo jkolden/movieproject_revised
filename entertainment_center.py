@@ -27,14 +27,14 @@ searching_for_sugarman = media.Movie(
     "Searching For Sugarman",
     "Academy Award winning documentary about a 1960's folk icon",
     "https://tinyurl.com/yc5xfhwm",
-    "https://tinyurl.com/al4r7gu")
+    "https://www.youtube.com/watch?v=QL5TffdOQ7g")
 
 all_the_presidents_men = media.Movie(
     "All the President's Men",
     """Two reporters from the Washington Post uncover
     illegal activity at the highest levels of government""",
     "https://tinyurl.com/ydcj9pdc",
-    "https://tinyurl.com/lgl4e79")
+    "https://www.youtube.com/watch?v=vLt6djxhNe8")
 
 moneyball = media.Movie(
     "Moneyball",
