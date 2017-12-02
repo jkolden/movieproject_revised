@@ -22,4 +22,7 @@ def __init__(self,
 
 
 def show_trailer(self):
+    """
+    initializing instance for opening youtube trailer video
+    """
         webbrowser.open(self.trailer_youtube_url)
